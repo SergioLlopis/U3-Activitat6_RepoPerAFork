@@ -103,7 +103,8 @@ public class MissatgesNadalencs {
 
 	// FILA 1
 	private static void AlumneFila1PC1() {
-
+		System.out.println("Bones festes, que aquest pròxim any vaja bé entorns");
+		System.out.println();
 	}
 
 	private static void AlumneFila1PC2() {
