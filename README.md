@@ -35,7 +35,8 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 ## POSA EL TEU NOM I EN LA SEGÜENT LÍNIA LA DESCRIPCIÓ DE LA TASCA
 
 
-#### AlumneFila1 PC1: 
+#### AlumneFila1 PC1: Añadido el mensaje de navidad más bonito de todos ;)
+Sergio Llopis
 
 
 #### AlumneFila1 PC2:
